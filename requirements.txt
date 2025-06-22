@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+aiohttp
+pillow
+replicate
+openai
+python-dotenv
+requests
+numpy
